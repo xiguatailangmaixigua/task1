@@ -16,7 +16,7 @@
 			clear:both;
 		}
 		.show-title{
-			font-size:1.4em;
+			font-size:1.3em;
 			color:#666;
 		}
 		.show-description{
@@ -196,7 +196,7 @@
 		 }
 		 .content{
 		    color:#999;
-		   font-size:0.8em;
+		   font-size:0.75em;
 		   display:block;
 		   margin: 0;
 		 }
@@ -355,7 +355,7 @@
 			float:left;
 		}
 		.block-title{
-			font-size:1.5em;
+			font-size:1.3em;
 			white-space: nowrap;
 			margin-bottom:11px;
 			padding:0;
@@ -369,6 +369,11 @@
 			padding:3px 3px;
 			margin:0 3px;
 			color:#C0C0C0;
+		}
+		.left-line{
+			color:#E2E2E2;
+			margin:15px;
+			border: 1px solid #E2E2E2;
 		}
 		@media screen and (max-width:712px){
 			body{
